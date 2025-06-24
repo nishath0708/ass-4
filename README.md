@@ -7,7 +7,7 @@ Student Name: NISHANTH KURUGUNTLA
 Student ID: [700766566]  
 
 EASYLY ACCUSS THE LINK : https://github.com/nishath0708/ass-4/edit/main/README.md
-
+VEDIO LINK:https://drive.google.com/file/d/1Z8D5YKBpklzSJ4i4REN0d3hmQ44uyVVW/view?usp=sharing
 Overview of the Assignment  
 This notebook provides solutions for six key tasks related to generative and adversarial learning, fairness in machine learning, and ethical AI implications. The practical parts are implemented in TensorFlow, covering basic GAN training, data poisoning attacks, and fairness audits.
 
